@@ -1,0 +1,43 @@
+#content{
+				
+				text-align: center;
+				margin-top:1%;
+	}
+
+
+#register{
+				text-align: center;
+				margin-top:1%;
+
+}
+			
+				
+.column1{
+				width: 20%;
+				height:400px;
+				float: left;
+				margin: 6%;
+				margin-top:10%;
+				margin-left:12%;
+				text-align: center;}
+
+.column2 {
+				width: 50%;
+				height:350px;
+				float: left;
+				margin: 6%;
+				margin-top:10%;
+				margin-left:1px;
+				background-color: #000000;
+			}
+
+#nav, #footer {
+				
+				
+				padding: 0.5em 0;
+				text-align: center;}
+
+h{
+	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
